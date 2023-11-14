@@ -1,12 +1,12 @@
 # G3T3 Admin Portal
-<img style="background:white" src="./.github/images/header.png"></img>
+<img style="background:white" src="./header.png"></img>
 
 ## Description
 This Admin Portal built for Ascenda Loyalty is a highly scalable and highly available solution for internal admin staff to handle users and their points accounts. We mainly utilised a serverless architecture to deploy our microservices as AWS Lambda Functions.
 
 ## Solution Architecture
 
-<img style="background:white" src="./.github/images/architecture.png"></img>
+<img style="background:white" src="./architecture.png"></img>
 
 ## Submodules
 
